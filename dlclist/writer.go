@@ -1,4 +1,4 @@
-package addon
+package dlclist
 
 import (
 	"encoding/xml"
@@ -49,7 +49,7 @@ func WriteAddons() error {
 		return err
 	}
 
-	logging.Debug().Msgf("gtavd-addon-watcher: found %d addon directories", len(dlcItems))
+	logging.Debug().Msgf("gtavd-dlclist-watcher: found %d dlclist directories", len(dlcItems))
 	return writeAddonsFile()
 }
 
