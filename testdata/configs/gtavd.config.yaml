@@ -1,0 +1,7 @@
+gtavd:
+  game_path: 'D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V'
+  addons:
+    enabled: true
+    blacklist:
+      - addonpeds
+      - foo
