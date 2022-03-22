@@ -3,6 +3,19 @@
 
 As just previously stated, this tool allows Grand Theft Auto V modding enthusiasts to run common tasks derived from modding activities with almost no user-interaction. The main benefit of `gtavd` is to ease overall modding operational overhead (_e.g. updating dlclist.xml file everytime when adding an addon mod, keeping files in-sync between multiple devices_).
 
+## Table of Contents
+
+- [gtavd](#gtavd)
+  - [Table of Contents](#table-of-contents)
+  - [How-To](#how-to)
+    - [Install Daemon](#install-daemon)
+    - [Change Configuration](#change-configuration)
+    - [Restart/Stop the Service](#restartstop-the-service)
+    - [Access to Logs for Troubleshooting](#access-to-logs-for-troubleshooting)
+  - [Features](#features)
+    - [Dlclist.xml Automatic Generation](#dlclistxml-automatic-generation)
+  - [Feature Roadmap](#feature-roadmap)
+
 ## How-To
 
 ### Install Daemon
