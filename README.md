@@ -56,5 +56,6 @@ The `dlclist` module is a background-running task detecting changes of both _/mo
 
 ## Feature Roadmap
 
+- `Script blacklisting`. Enable or disable script mods (_e.g. .rph, .ini, .dll_) using a blacklist mechanism. 
 - `Cloud-sync of configuration files`. Useful to keep a global configuration between multiple machines.
 - `Cloud-sync of mods files`. Useful to keep a set installed mods between multiple machines. It MIGHT just keep in-sync the _mods_ folder to reduce overall cloud storage consumption.
